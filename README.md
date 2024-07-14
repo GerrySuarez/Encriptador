@@ -1,3 +1,4 @@
 PRIMER DESAFIO ALURA LATAM
 
-![imagen](https://github.com/user-attachments/assets/61c10951-0285-431f-b76b-d20f01bf0e7d)![Subiendo imagen.png...]()
+
+![Screenshot_1](https://github.com/user-attachments/assets/6f613ab5-7af7-4cf3-b92e-cfc85170a5f6)![Subiendo imagen.png...]()
